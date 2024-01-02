@@ -1,0 +1,21 @@
+body {
+    background-image: url("bg_image.png");
+}
+.things-to-center {
+    text-align: center;
+}
+#image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    text-align: center;
+    border: thick solid rgb(0, 255, 30);
+    font-size: 24pt;
+    color: rgb(0, 255, 30);
+}
+p {
+    color: rgb(189, 189, 189);
+}
